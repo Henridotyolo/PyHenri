@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I am open to working with others and like to help with other projects.
 - 📫 You can reach me via discord with General_Gandolf#5059
+(Please excuse my bad english lol)
 
 <!---
 PyHenri/PyHenri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
