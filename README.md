@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @PyHenri
-- 👀 I’m interested in 2D game developement and Python
-- 🌱 I’m currently learning Python
+# 👋 Hi, I’m Henri
+- 👀 I’m interested in python/pygame
+- 🌱 I’m currently learning webdevelopement
 - 💞️ I am open to working with others and like to help with other projects.
-- 📫 You can reach me via discord with General_Gandolf#5059
 
-(Please excuse my bad english lol)
 
 <!---
 PyHenri/PyHenri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
