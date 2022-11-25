@@ -11,7 +11,7 @@
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring shaders, noise and other cool gamedev technologies.
-- 🎮 &nbsp; I am addicted to 2D Game Developement, BUT I do everything from Scratch without a Game Engine for a better experience
+- 🎮 &nbsp; I really enjoy 2D Game Developement, BUT I do everything from Scratch without a Game Engine for a better experience
 
 ### Languages and Tools:
 
